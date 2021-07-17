@@ -562,7 +562,7 @@
           if ($('.banner-carousel__one').length) {
 
               var myCarousel = $('.banner-carousel__one');
-              var singleItem = '.banner-one__slide';
+              //var singleItem = '.banner-one__slide';
               var nextBtn = $('.banner-one__nav-left');
               var prevBtn = $('.banner-one__nav-right');
 
